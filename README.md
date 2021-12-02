@@ -14,22 +14,19 @@
   * https://www.zhihu.com/people/nei-ku-mei-xi-you-dian-sao
 * 因为脑子比较笨QvQ，所以可能在算法题和技术细节上比较外行
 
-
-
 Thank you for visiting my github homepage, I am glad to see you here
 
 My personal introduction:
 
-* I am currently a college student, majoring in information management and information systems（MIS）
-* Love computer technology, keen to discover the world with code，want to be more "green" in github,etc
-* The current intended work direction is Java development, and other interests include network security, graphics, blockchain, etc.
-* The short-term plan is to find a job QvQ, firm the CS foundation, learn concurrency in depth, jvm
-* Long-term planning is to transform to do database-related work, development or operation and maintenance
-* grew up in ShanDong,China QvQ
-* I am more active in the following communities, welcome to communicate:
-  * https://www.zhihu.com/people/nei-ku-mei-xi-you-dian-sao
-  * https://leetcode-cn.com/u/boy-next-door/
-* Because the brain is more dumb QvQ, so you may be more layman in algorithmic problems and technical details
+I am currently a college student, majoring in information management and information systems. I am currently working as an intern/working in a Beijing network security company, and server-side development
+Love computer technology, keen to discover the world with code, and want to be strong in the open source community
+The short-term intention work direction is mainly facing the development of Java back-end, other interests include network security, big data, etc.
+The short-term plan is to lay a solid foundation in CS, and in-depth study of the core principles of java, concurrency, jvm, spring, etc.
+Long-term planning is to transform to do database-related work, DBA, etc.
+Hulk Shadong Yin
+I am more active in the following communities, welcome to communicate:
+https://www.zhihu.com/people/nei-ku-mei-xi-you-dian-sao
+Because my brain is more dumb QvQ, I may be more layman in algorithmic problems and technical details
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iznilul&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
