@@ -30,7 +30,7 @@ My personal introduction:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=iznilul&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<a href="https://app.daily.dev/radcircle"><img src="https://api.daily.dev/devcards/v2/WhqInAX6ESBuSJsW0Vp5x.png?r=xsz&type=wide" width="652" alt="lawrence Lue's Dev Card"/></a>
 
 <!--
 **iznilul/iznilul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
